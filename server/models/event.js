@@ -7,3 +7,4 @@ const eventSchema = new Schema({
 });
 module.exports = mongoose.model('event', eventSchema, 'events');
 
+
